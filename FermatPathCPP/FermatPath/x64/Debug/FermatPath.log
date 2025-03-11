@@ -1,0 +1,8 @@
+﻿  FermatPath.cpp
+C:\Users\n11558539\Desktop\test\FermatPath\FermatPath\FermatPath.cpp(57,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\n11558539\Desktop\test\FermatPath\FermatPath\FermatPath.cpp(58,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\n11558539\Desktop\test\FermatPath\FermatPath\FermatPath.cpp(149,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\n11558539\Desktop\test\FermatPath\FermatPath\FermatPath.cpp(150,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\n11558539\Desktop\test\FermatPath\FermatPath\FermatPath.cpp(239,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\n11558539\Desktop\test\FermatPath\FermatPath\FermatPath.cpp(240,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  FermatPath.vcxproj -> C:\Users\n11558539\Desktop\test\FermatPath\x64\Debug\FermatPath.exe
